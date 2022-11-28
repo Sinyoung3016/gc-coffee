@@ -1,5 +1,6 @@
 package kdt.gccoffee.controller;
 
+import kdt.gccoffee.controller.request.CreateProductRequest;
 import kdt.gccoffee.model.Product;
 import kdt.gccoffee.service.ProductService;
 import org.springframework.stereotype.Controller;

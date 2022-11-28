@@ -1,4 +1,4 @@
-package kdt.gccoffee.controller;
+package kdt.gccoffee.controller.request;
 
 import kdt.gccoffee.model.Category;
 
