@@ -2,7 +2,7 @@ import React from "react";
 
 export function Product(props) {
     const handleAddBtnClicked = () => {
-        props.onAddClick(props.id);
+        props.onAddClick(props.productId);
     }
     return <>
         <div className="col-2">
